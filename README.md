@@ -17,7 +17,6 @@ FarmEasy is an agricultural and rural development project that uses the power of
 ## Crop Analyzation
 
 
-![](https://github.com/Leesha-1211/Farm-Easy/blob/main/farmeasy-frontend/public/farmeasy%20(5).jpeg)
 <br>
 From a farmer's perspective its very important to know which crop should be sown in which region to get the maximum yield! Our crop Analyzation feature address this very issue in a statistical way. Basically we take some inputs from the user like state, district and a customization of crops OR year and based on these inputs we produce a data analytic of the production per unit area for various crops in the selected year or the past trends from various years. Through this analytic farmers can have a decent idea about which crop would be the best suited for a particular region. We used __random forest regression__ for this feature.
 
